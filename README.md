@@ -22,7 +22,7 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/BrunoSobrino/ShadowBotV3
+> git clone https://github.com/shadowbrokers133/ShadowBotV3
 > cd ShadowBotV3
 > npm install
 > npm install -g npm@8.4.0
@@ -39,7 +39,7 @@
 > apt install imagemagick -y
 > termux-setup-storage
 > cd storage/downloads
-> git clone https://github.com/BrunoSobrino/ShadowBotV3
+> git clone https://github.com/shadowbrokers133/ShadowBotV3
 > cd ShadowBotV3
 > npm install
 > npm install -g npm@8.4.0
